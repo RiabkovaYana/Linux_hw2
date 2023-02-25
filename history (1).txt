@@ -1,0 +1,14 @@
+   0 vi /tmp/file.txt
+   1 ps -ef
+   2 ps -ef | head -3 > /tmp/file.txt 
+   3 ls -l /tmp
+   4 chmod 624 file.txt
+   5 cd /tmp
+   6 ls -l
+   7 chmod 624 file.txt
+   8 ls -l
+   9 chmod 224 file.txt
+  10 ls -l
+  11 chmod 221 file.txt
+  12 ls -l
+  13 history > history.txt
